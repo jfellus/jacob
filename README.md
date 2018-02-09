@@ -2,5 +2,5 @@
 
 ````bash
 sudo apt-get install python3-pip
-sudo pip3 install spyder
+sudo pip3 install spyder numpy matplotlib
 ````
